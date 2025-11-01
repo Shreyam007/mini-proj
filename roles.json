@@ -1,5 +1,0 @@
-{
-  "Data Analyst": ["python", "sql", "excel", "tableau", "statistics", "data visualization"],
-  "Web Developer": ["html", "css", "javascript", "react", "nodejs", "api", "frontend", "backend"],
-  "AI Engineer": ["python", "machine learning", "deep learning", "tensorflow", "pytorch", "nlp", "computer vision"]
-}
